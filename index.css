@@ -1,0 +1,37 @@
+body {
+    padding-top: 75px;
+}
+
+.three-column {
+    padding-bottom: 30px;
+    padding-top: 70px;
+}
+
+.single-column {
+    padding-bottom: 30px;
+    padding-top: 70px;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+    /*background-color: #2F2F2F;*/
+    font-family: "Oxygen", Helvetica, Arial, sans-serif;
+}
+
+a:active, a:hover {
+    outline: 0 none;
+}
+
+:focus, *:hover, *:active {
+    outline: medium none;
+}
+
+.selecter {
+    max-width: 100%;
+}
+
+/*.form-group label {
+    max-width: 100%;
+    width: 100%;
+}*/
+
+

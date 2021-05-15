@@ -1,0 +1,46 @@
+{
+    "name": "classifieds",
+    "description": "classifieds",
+    "dependencies": {
+        "visionmedia/page.js": "*",
+        "serandomps/dust": "master",
+        "serandomps/serand": "master",
+        "serandomps/auth": "master",
+        "serandomps/token": "master",
+        "serandomps/user": "master",
+        "serandomps/utils": "master",
+        "serandomps/watcher": "master",
+        "serandomps/uready": "master",
+        "serandomps/classifieds-client": "master",
+        "serandomps/model-vehicles": "master",
+        "serandomps/model-advertisements": "master",
+        "serandomps/breadcrumb": "master",
+        "serandomps/footer": "master",
+        "serandomps/navigation": "master"
+    },
+    "scripts": [
+        "index.js"
+    ],
+    "styles": [
+        "nunito.css",
+        "oxygen.css",
+        "index.css",
+        "theme.css"
+    ],
+    "templates": [
+        "component.json",
+        "layouts/one-column.html",
+        "layouts/two-column-left.html",
+        "layouts/two-column-right.html",
+        "layouts/three-column.html"
+    ],
+    "images": [
+        "images/logo.png",
+        "images/logo@2x.png",
+        "images/*"
+    ],
+    "files": [
+        "index.html"
+    ],
+    "main": "index.js"
+}
